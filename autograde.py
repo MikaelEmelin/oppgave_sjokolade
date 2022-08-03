@@ -1,0 +1,3 @@
+def test_autograde(capsys):
+    import main
+    assert capsys.readouterr().out == '1\n2\nSjoko\n4\nLade\nSjoko\n7\n8\nSjoko\nLade\n11\nSjoko\n13\n14\nSjokoLade\n16\n17\nSjoko\n19\nLade\nSjoko\n22\n23\nSjoko\nLade\n26\nSjoko\n28\n29\nSjokoLade\n31\n32\nSjoko\n34\nLade\nSjoko\n37\n38\nSjoko\nLade\n41\nSjoko\n43\n44\nSjokoLade\n46\n47\nSjoko\n49\nLade\nSjoko\n52\n53\nSjoko\nLade\n56\nSjoko\n58\n59\nSjokoLade\n61\n62\nSjoko\n64\nLade\nSjoko\n67\n68\nSjoko\nLade\n71\nSjoko\n73\n74\nSjokoLade\n76\n77\nSjoko\n79\nLade\nSjoko\n82\n83\nSjoko\nLade\n86\nSjoko\n88\n89\nSjokoLade\n91\n92\nSjoko\n94\nLade\nSjoko\n97\n98\nSjoko\nLade\n'
