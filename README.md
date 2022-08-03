@@ -1,7 +1,7 @@
 # SjokoLade kodeutfordring
 En kodeutfordring som ofte er brukt i kodeintervjuer.
 
-Finn den beste løsningen på problemstillingen! Oppgaven løses i `main.py`
+Finn den beste løsningen på problemstillingen! Oppgaven løses i `sjokolade.py`
 
 # Oppgave:
 Iterer (gå gjennom) tallene 0-100 og print ut følgende verdier:
