@@ -1,0 +1,9 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "extensions": [
+    "ms-python.python",
+    "aaron-bond.better-comments",
+    "KevinRose.vsc-python-indent",
+    "LittleFoxTeam.vscode-python-test-adapter"
+  ]
+}
